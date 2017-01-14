@@ -7,9 +7,10 @@ h1{
 #btnSuma{
     background-color:peru;
     color:white;
+    border-radius:5px;
 }
 #btnRestar{
     background-color:blue;
     color:white;
-    border-radius:2px;
+    border-radius:5px;
 }
